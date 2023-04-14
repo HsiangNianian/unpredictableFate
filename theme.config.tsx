@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://jq.qq.com/?_wv=1027&k=3UKm5KZJ',
   },
-  docsRepositoryBase: 'https://github.com/HsiangNianian/unpredictableFate',
+  docsRepositoryBase: 'https://github.com/HsiangNianian/unpredictableFate/tree/main/',
   footer: {
     text: 'unpredictableFate',
   },
