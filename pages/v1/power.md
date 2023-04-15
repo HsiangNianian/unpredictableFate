@@ -1,6 +1,11 @@
 # 战斗规则
+import { Callout } from 'nextra-theme-docs'//需要这个下面的代码才生效
 
-**愿意通过使用复杂战斗机制获得帮助的PL，IO不会拒绝他的行为**
+<Callout type="info">
+    **愿意通过使用复杂战斗机制获得帮助的PL，IO不会拒绝他的行为**
+</Callout>
+
+
 
 **——偷袭轮——**
 
