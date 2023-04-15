@@ -2,11 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/v1/power/zdgz": "pages/v1/power/zdgz.js",
-  "/": "pages/index.js",
-  "/v1/ckgz/Superability": "pages/v1/ckgz/Superability.js",
-  "/v1/advanced/basic": "pages/v1/advanced/basic.js",
-  "/v1/appendix/a": "pages/v1/appendix/a.js",
-  "/v1/advanced/core": "pages/v1/advanced/core.js",
-  "/v1/appendix/b": "pages/v1/appendix/b.js"
+  "/v1/power": "pages/v1/power.js",
+  "/v1/ckgz/pjdj": "pages/v1/ckgz/pjdj.js",
+  "/v1/ckgz/rwzl": "pages/v1/ckgz/rwzl.js",
+  "/v1/appendix/d": "pages/v1/appendix/d.js",
+  "/v1/appendix/e": "pages/v1/appendix/e.js"
 }

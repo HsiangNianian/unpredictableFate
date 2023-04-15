@@ -1,6 +1,9 @@
 {
-  "index": "开篇",
-  "v1":{
+  "index": {
+    "title":"开篇",
+    "type":"page"
+  },
+    "v1":{
     "title":"v1",
     "type":"page"
   },

@@ -15,11 +15,6 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
-    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -30,35 +25,35 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/v1/advanced/basic": [
+    "/v1/appendix/d": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/v1/advanced/basic.js"
+      "static/chunks/pages/v1/appendix/d.js"
     ],
-    "/v1/advanced/core": [
+    "/v1/appendix/e": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/v1/advanced/core.js"
-    ],
-    "/v1/appendix/a": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/v1/appendix/a.js"
-    ],
-    "/v1/appendix/b": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/v1/appendix/b.js"
+      "static/chunks/pages/v1/appendix/e.js"
     ],
     "/v1/ckgz/Superability": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/v1/ckgz/Superability.js"
     ],
-    "/v1/power/zdgz": [
+    "/v1/ckgz/pjdj": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/v1/power/zdgz.js"
+      "static/chunks/pages/v1/ckgz/pjdj.js"
+    ],
+    "/v1/ckgz/rwzl": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/v1/ckgz/rwzl.js"
+    ],
+    "/v1/power": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/v1/power.js"
     ]
   },
   "ampFirstPages": []
