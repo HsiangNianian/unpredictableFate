@@ -1,16 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/about": "pages/about.html",
-  "/": "pages/index.html",
-  "/v1/advanced/core": "pages/v1/advanced/core.html",
-  "/v1/advanced/basic": "pages/v1/advanced/basic.html",
-  "/v1/advanced/duling": "pages/v1/advanced/duling.html",
-  "/v1/appendix/appendix": "pages/v1/appendix/appendix.html",
-  "/v1/ckgz/Superability": "pages/v1/ckgz/Superability.html",
-  "/v1/ckgz/pjdj": "pages/v1/ckgz/pjdj.html",
-  "/v1/power/zdgz": "pages/v1/power/zdgz.html",
-  "/v1/ckgz/rwzl": "pages/v1/ckgz/rwzl.html",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/v1/advanced/core": "pages/v1/advanced/core.js"
 }
