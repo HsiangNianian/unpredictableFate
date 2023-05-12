@@ -23,7 +23,7 @@
 - <https://unpredictablefate.jyunko.cn/> _(recommend)_
 - <https://unpredictable-fate.vercel.app/>
 - <https://unpredictable-fate-git-main-retrofor.vercel.app>
-- 
+
 ## License
 
 This project is licensed under the MIT License.
