@@ -29,6 +29,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+    ],
+    "/v1/advanced/core": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/v1/advanced/core.js"
+    ],
+    "/v1/dulingxc/dulingxcjieshao": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/v1/dulingxc/dulingxcjieshao.js"
     ]
   },
   "ampFirstPages": []
