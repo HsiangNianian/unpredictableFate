@@ -2,7 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/v1/advanced/core": "pages/v1/advanced/core.js",
-  "/v1/dulingxc/dulingxcjieshao": "pages/v1/dulingxc/dulingxcjieshao.js"
+  "/v1/advanced/core": "pages/v1/advanced/core.js"
 }
