@@ -8,14 +8,19 @@
     "type": "menu",
     "items": {
       "v1": {
-        "title": "v1",
-        "href": "/v1/"
+        "title": "v1 旧版",
+        "href": "/v1/advanced/core"
       },
       "v2": {
         "title": "v2",
-        "href": "/v2/"
+        "href": "/v2/advanced/core"
       }
     }
+  },
+  "blog": {
+    "title": "博客",
+    "type": "page",
+    "href": "/blog"
   },
   "about": {
     "title": "关于",
