@@ -5,7 +5,7 @@ const config: DocsThemeConfig = {
   banner: {
     key: '2.0-release',
     text: <a href="https://unpredictablefate.jyunko.cn/v1/advanced/core" target="_blank">
-      🎉 unpredictableFate 1.0 is released. Read more →
+      🎉 unpredictableFate 2.0 is released. Read more →
     </a>,
   },
   useNextSeoProps() {
