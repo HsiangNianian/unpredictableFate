@@ -5,10 +5,7 @@
   "devFiles": [
     "static/chunks/react-refresh.js"
   ],
-  "ampDevFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/amp.js"
-  ],
+  "ampDevFiles": [],
   "lowPriorityFiles": [
     "static/development/_buildManifest.js",
     "static/development/_ssgManifest.js"
@@ -25,35 +22,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/v1/appendix/d": [
+    "/blog": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/v1/appendix/d.js"
+      "static/chunks/pages/blog.js"
     ],
-    "/v1/appendix/e": [
+    "/docs": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/v1/appendix/e.js"
+      "static/chunks/pages/docs.js"
     ],
-    "/v1/ckgz/Superability": [
+    "/v1/advanced/core": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/v1/ckgz/Superability.js"
-    ],
-    "/v1/ckgz/pjdj": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/v1/ckgz/pjdj.js"
-    ],
-    "/v1/ckgz/rwzl": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/v1/ckgz/rwzl.js"
-    ],
-    "/v1/power": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/v1/power.js"
+      "static/chunks/pages/v1/advanced/core.js"
     ]
   },
   "ampFirstPages": []
