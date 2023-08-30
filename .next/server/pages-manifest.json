@@ -2,7 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/blog/v2": "pages/blog/v2.js",
-  "/v2/advanced/core": "pages/v2/advanced/core.js",
-  "/": "pages/index.js"
+  "/blog": "pages/blog.js",
+  "/v1/advanced/core": "pages/v1/advanced/core.js",
+  "/docs": "pages/docs.js"
 }

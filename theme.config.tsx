@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   banner: {
     key: '2.0-release',
-    text: <a href="https://unpredictablefate.jyunko.cn/v1/advanced/core" target="_blank">
+    text: <a href="https://unpredictablefate.jyunko.cn/blog/v2" target="_blank">
       🎉 unpredictableFate 2.0 is released. Read more →
     </a>,
   },

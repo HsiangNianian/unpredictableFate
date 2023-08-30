@@ -12,15 +12,15 @@
         "href": "/v1/advanced/core"
       },
       "v2": {
-        "title": "v2",
-        "href": "/v2/advanced/core"
+        "title": "v2 新版",
+        "href": "/docs"
       }
     }
   },
   "blog": {
     "title": "博客",
     "type": "page",
-    "href": "/blog"
+    "href": "/blog/"
   },
   "about": {
     "title": "关于",
