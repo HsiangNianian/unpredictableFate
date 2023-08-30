@@ -3,9 +3,19 @@
     "title":"开篇",
     "type":"page"
   },
-    "v1":{
-    "title":"v1",
-    "type":"page"
+  "docs": {
+    "title": "文档",
+    "type": "menu",
+    "items": {
+      "v1": {
+        "title": "v1",
+        "href": "/v1/"
+      },
+      "v2": {
+        "title": "v2",
+        "href": "/v2/"
+      }
+    }
   },
   "about": {
     "title": "关于",
