@@ -1,9 +1,6 @@
 {
-    "index": "概述",
-    "advanced": "世界观",
-    "ckgz": "车卡规则",
-    "power": "战斗规则",
-    "gmgz":"购买规则",
-    "mjxd": "幕间",
-    "appendix": "附录"
+    "latest":"v2 最新版",
+    "v1": {
+        "display": "hidden"
+    }
 }

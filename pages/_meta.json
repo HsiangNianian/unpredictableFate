@@ -9,10 +9,10 @@
     "items": {
       "v1": {
         "title": "v1 旧版",
-        "href": "/v1/advanced/core"
+        "href": "/older/v1/advanced/core"
       },
       "v2": {
-        "title": "v2 新版",
+        "title": "v2 (@latest)",
         "href": "/docs"
       }
     }
@@ -27,7 +27,7 @@
     "type": "page"
   },
   "contact": {
-    "title": "联系 ↗",
+    "title": "联系我们 ↗",
     "type": "page",
     "href": "https://jq.qq.com/?_wv=1027&k=3UKm5KZJ",
     "newWindow": true

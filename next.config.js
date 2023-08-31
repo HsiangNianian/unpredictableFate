@@ -10,12 +10,12 @@ module.exports = withNextra({
   redirects: () => [
     {
       source: '/docs',
-      destination: '/docs/index',
+      destination: '/docs/latest',
       permanent: true
     },
     {
       source: '/docs/:slug(typescript|latex|tailwind-css|mermaid)',
-      destination: '/docs/:slug',
+      destination: '/docs/latest/:slug',
       permanent: true
     },
   ],

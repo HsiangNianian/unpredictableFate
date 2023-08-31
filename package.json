@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/HsiangNianian/unpredictableFate#readme",
   "dependencies": {
+    "@stitches/react": "^1.2.8",
     "next": "^13.4.19",
     "next-seo": "^6.1.0",
     "nextra": "^2.12.3",
