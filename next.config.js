@@ -14,7 +14,7 @@ module.exports = withNextra({
       permanent: true
     },
     {
-      source: '/latest/:slug(typescript|latex|tailwind-css|mermaid)',
+      source: '/docs/:slug(typescript|latex|tailwind-css|mermaid)',
       destination: '/docs/latest/:slug',
       permanent: true
     },
