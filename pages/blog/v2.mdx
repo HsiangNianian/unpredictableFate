@@ -7,4 +7,24 @@ title: unpredictableFate v2
 
 # unpredictableFate v2
 
-> uF 命运无常`v2`repo发布。
+Writter: `简律纯`
+
+这是 unPF v2 版本的发行概述，主要是介绍一下网站的变化。
+
+## Components
+
+新增了一些React组件，如下:
+
+1. Cards
+
+import { Cards, Card } from 'nextra/components'
+import { CardsIcon, OneIcon, WarningIcon } from '@components/icons'
+ 
+<Cards>
+  <Card icon={<WarningIcon />} title="Callout" href="/docs/guide/built-ins/callout" />
+  <Card icon={<CardsIcon />} title="Tabs" href="/docs/guide/built-ins/tabs" />
+  <Card icon={<OneIcon />} title="Steps" href="/docs/guide/built-ins/steps" />
+</Cards>
+
+
+2. feature

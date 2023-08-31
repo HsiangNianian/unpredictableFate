@@ -9,7 +9,7 @@ const withNextra = require('nextra')({
 module.exports = withNextra({
   redirects: () => [
     {
-      source: '/docs',
+      source: '/docs/',
       destination: '/docs/latest',
       permanent: true
     },
