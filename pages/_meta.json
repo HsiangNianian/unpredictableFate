@@ -7,13 +7,13 @@
     "title": "文档",
     "type": "menu",
     "items": {
-      "v1": {
-        "title": "v1 旧版",
-        "href": "/older/v1/advanced/core"
-      },
       "v2": {
         "title": "v2 (@latest)",
-        "href": "/docs"
+        "href": "/docs/latest"
+      },
+      "v1": {
+        "title": "v1 旧版",
+        "href": "/docs/v1/advanced/core"
       }
     }
   },
