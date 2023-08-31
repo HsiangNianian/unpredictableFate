@@ -2,7 +2,11 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/blog": "pages/blog.js",
+  "/": "pages/index.js",
+  "/docs/advanced/core": "pages/docs/advanced/core.js",
+  "/docs/appendix/b": "pages/docs/appendix/b.js",
+  "/docs/appendix/c": "pages/docs/appendix/c.js",
+  "/docs/appendix/a": "pages/docs/appendix/a.js",
   "/v1/advanced/core": "pages/v1/advanced/core.js",
-  "/docs": "pages/docs.js"
+  "/blog": "pages/blog.js"
 }
