@@ -19,5 +19,6 @@ module.exports = withNextra({
       destination: '/docs/latest/:slug',
       permanent: true
     },
+
   ],
 })
