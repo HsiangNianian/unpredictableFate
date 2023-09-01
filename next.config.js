@@ -10,12 +10,12 @@ const withNextra = require('nextra')({
 module.exports = withNextra({
   redirects: () => [
     {
-      source: '/docs/',
+      source: '/docs',
       destination: '/docs/latest',
       permanent: true
     },
     {
-      source: '/docs/:slug(typescript|latex|tailwind-css|mermaid)',
+      source: '/docs/:slug',
       destination: '/docs/latest/:slug',
       permanent: true
     },

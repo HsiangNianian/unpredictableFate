@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/HsiangNianian/unpredictableFate#readme",
   "dependencies": {
+    "@docsearch/css": "^3.5.2",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@stitches/react": "^1.2.8",
     "framer-motion": "^10.16.2",
     "next": "^13.4.19",

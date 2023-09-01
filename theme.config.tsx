@@ -1,7 +1,32 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFileImport } from '@fortawesome/free-solid-svg-icons';
 
 const config: DocsThemeConfig = {
+  toc: {
+    backToTop: true
+  },
+  sidebar: {
+    titleComponent: ({ title, type }) => {
+      // if (type === 'separator') {
+      //   return <span className="cursor-default">{title}</span>;
+      // };
+
+      // if (title === 'latest') {
+      //   return (
+      //     <span>
+      //       {title} <FontAwesomeIcon icon={faFileImport} size="2xs" shake fade />
+      //     </span>
+      //   );
+      // }
+
+      return <>{title}</>;
+    },
+    autoCollapse: false,
+    defaultMenuCollapseLevel: 1,
+    toggleButton: true
+  },
   banner: {
     key: '2.0-release',
     text: <a href="https://unpredictablefate.jyunko.cn/blog/v2" target="_blank">

@@ -1,0 +1,9 @@
+.nav-separator,
+.nav-link[data-version]:not([data-version='latest']) {
+  display: none !important;
+}
+
+.notification-icon {
+  font-size: 8px; /* 调整图标的字体大小 */
+  /* 可以根据需要添加其他样式属性，如颜色、边距等 */
+}
