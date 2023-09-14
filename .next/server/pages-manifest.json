@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/v1/power": "pages/v1/power.js",
+  "/v1/ckgz/pjdj": "pages/v1/ckgz/pjdj.js",
+  "/v1/ckgz/rwzl": "pages/v1/ckgz/rwzl.js",
+  "/v1/appendix/d": "pages/v1/appendix/d.js",
+  "/v1/appendix/e": "pages/v1/appendix/e.js"
+}

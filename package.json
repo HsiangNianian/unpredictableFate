@@ -1,6 +1,6 @@
 {
-  "name": "unpredictable-fate",
-  "version": "2.0.0",
+  "name": "unpredictabl-fate",
+  "version": "0.0.1",
   "description": "unpredictableFate",
   "scripts": {
     "dev": "next dev",
@@ -18,16 +18,9 @@
   },
   "homepage": "https://github.com/HsiangNianian/unpredictableFate#readme",
   "dependencies": {
-    "@docsearch/css": "^3.5.2",
-    "@fortawesome/fontawesome-svg-core": "^6.4.2",
-    "@fortawesome/free-solid-svg-icons": "^6.4.2",
-    "@fortawesome/react-fontawesome": "^0.2.0",
-    "@stitches/react": "^1.2.8",
-    "framer-motion": "^10.16.2",
-    "next": "^13.4.19",
-    "next-seo": "^6.1.0",
-    "nextra": "^2.12.3",
-    "nextra-theme-docs": "^2.12.3",
+    "next": "^13.0.6",
+    "nextra": "latest",
+    "nextra-theme-docs": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

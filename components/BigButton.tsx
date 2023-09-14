@@ -1,9 +1,8 @@
-import React, { ReactNode } from 'react';
-import styles from './BigButton.module.css';
+import React from 'react'
+import styles from './BigButton.module.css'
 
 interface Props {
-  onClick: () => void;
-  children: ReactNode; // 添加 children 属性
+  onClick: () => void
 }
 
 const BigButton: React.FC<Props> = ({ children, onClick }) => {
@@ -11,7 +10,7 @@ const BigButton: React.FC<Props> = ({ children, onClick }) => {
     <button className={styles.BigButton} onClick={onClick}>
       {children}
     </button>
-  );
-};
+  )
+}
 
-export default BigButton;
+export default BigButton

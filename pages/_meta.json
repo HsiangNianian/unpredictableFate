@@ -1,33 +1,18 @@
 {
   "index": {
-    "title":"前言",
+    "title":"开篇",
     "type":"page"
   },
-  "docs": {
-    "title": "文档",
-    "type": "menu",
-    "items": {
-      "v2": {
-        "title": "v2 (@latest)",
-        "href": "/docs/latest"
-      },
-      "v1": {
-        "title": "v1 旧版",
-        "href": "/docs/v1/advanced/core"
-      }
-    }
-  },
-  "blog": {
-    "title": "博客",
-    "type": "page",
-    "href": "/blog/"
+    "v1":{
+    "title":"v1",
+    "type":"page"
   },
   "about": {
     "title": "关于",
     "type": "page"
   },
   "contact": {
-    "title": "联系我们 ↗",
+    "title": "联系 ↗",
     "type": "page",
     "href": "https://jq.qq.com/?_wv=1027&k=3UKm5KZJ",
     "newWindow": true
