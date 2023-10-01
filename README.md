@@ -22,7 +22,7 @@
 
 - <https://unpredictablefate.jyunko.cn/> _(recommend)_
 - <https://unpredictable-fate.vercel.app/>
-- <https://unpredictable-fate-git-main-retrofor.vercel.app>
+- <https://unpredictable-fate-git-main-retrofor.vercel.app> _(git branch)_
 
 ## License
 
