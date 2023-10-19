@@ -179,7 +179,7 @@ nav:
         - "异能": Rule/Ability.md
         - "评级": Rule/Rank.md
     - 战斗规则:
-        - "index": Rule/Battle.md  
+        - Rule/Battle.md  
     - 购买规则:
         - Rule/Buy.md
   - 幕间:
