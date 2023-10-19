@@ -1,1 +1,13 @@
 node_modules
+
+# mkdocs
+site/
+
+# pdm
+.pdm-python
+.pdm-build/
+.venv/
+dist/
+
+# Python
+**/__pycache__/
