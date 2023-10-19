@@ -2,8 +2,7 @@ name: build Pages
 on:
   push:
     branches:
-      - master
-      - main
+      - latest
     paths:
       - "*.md"
       - docs/**
