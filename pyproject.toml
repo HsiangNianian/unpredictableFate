@@ -1,6 +1,6 @@
 [project]
 name = "unpredictableFate"
-version = "3.0.0"
+version = "3.0.1"
 description = "Official unF rule book."
 authors = [
     {name = "简律纯", email = "i@jyunko.cn"},
