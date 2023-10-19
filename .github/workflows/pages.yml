@@ -37,5 +37,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git fetch origin gh-pages:gh-pages
           pdm run mike deploy --update-aliases dev
-          pdm run mike set-default dev
+          pdm run mike set-default latest
           git push origin gh-pages
